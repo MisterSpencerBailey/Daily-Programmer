@@ -1,3 +1,8 @@
+# Source: https://www.reddit.com/r/dailyprogrammer/comments/4dccix/20160404_challenge_261_easy_verifying_3x3_magic/
+# verify_3x3 works, but it's a brute force method that I hate.
+# Verify_any() doesn't work and is part of the bonus problem.
+
+
 def verify_3x3():
     inputs =[8, 1, 6,
              3, 5, 7,
@@ -11,7 +16,7 @@ def verify_3x3():
 
 def verify_any():
     inputs =[8, 1, 6,3, 5, 7,4, 9, 2]
-    width = len(inputs) **0.5                   # Finds width/height of the list by finding square root.
+    width = len(inputs) **0.5 # Finds width/height of the list by finding square root.
     height = width
     width_number = int(width)
     height_number = int(height)

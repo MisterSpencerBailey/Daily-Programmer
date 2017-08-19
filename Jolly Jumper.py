@@ -1,4 +1,5 @@
-
+# Source: https://www.reddit.com/r/dailyprogrammer/comments/65vgkh/20170417_challenge_311_easy_jolly_jumper/
+# Not currently done
 
 def jumper(jolly):
     differences = []

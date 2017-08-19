@@ -1,3 +1,7 @@
+# Source: https://www.reddit.com/r/dailyprogrammer/comments/4n6hc2/20160608_challenge_270_intermediate_generating/
+# NOTE: NOT MY WORK. BORROWED TO TEST IT.
+# Original work from: https://www.reddit.com/r/dailyprogrammer/comments/4n6hc2/20160608_challenge_270_intermediate_generating/d41cve9/
+
 from collections import defaultdict
 import random
 import sys

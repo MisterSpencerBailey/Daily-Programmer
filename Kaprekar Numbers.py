@@ -1,3 +1,6 @@
+# Source: https://www.reddit.com/r/dailyprogrammer/comments/5aemnn/20161031_challenge_290_easy_kaprekar_numbers/
+# Works about 85% correct. Not all the correct numbers are being deteted.
+
 krepkar_numbers = []
 def check_krepkar(n):
     squared = str(n**2) #Is a str to be able to check length easier
@@ -15,6 +18,7 @@ def check_in_range(start,end):
 
     print(krepkar_numbers)
 
-#check_in_range(1,1000000)
+
+check_in_range(101, 9000)
 
 

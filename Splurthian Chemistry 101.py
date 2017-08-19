@@ -1,3 +1,5 @@
+# Source: https://www.reddit.com/r/dailyprogrammer/comments/4savyr/20160711_challenge_275_easy_splurthian_chemistry/
+
 element = str(input("Enter an element name: ")).lower()
 symbol = str(input("Enter a symbol name: ")).lower()
 highest = 0
