@@ -1,5 +1,5 @@
 #  Source: https://www.reddit.com/r/dailyprogrammer/comments/6ldv3m/20170705_challenge_322_intermediate_largest/
-#  TODO: Get this to be more efficient. Times for >3 are abysmal. 
+#  TODO: Get this to be more efficient. Times for >3 are abysmal.   
 
 
 def find_max(n):
