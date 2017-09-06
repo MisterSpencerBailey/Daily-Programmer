@@ -58,7 +58,3 @@ def box(coords):
     corners = [[left, bottom], [right, top]]
 
     return corners
-
-
-
-print(box(coords))
